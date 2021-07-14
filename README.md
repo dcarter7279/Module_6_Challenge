@@ -10,6 +10,7 @@ This is a Jupyter notebook that analysis the housing rental market data for San 
 
 This project leverages python 3.3.8.5 with the following packages:
 
+* Mapbox
 * os
 
 * pandas
